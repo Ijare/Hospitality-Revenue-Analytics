@@ -6,7 +6,7 @@ An end-to-end Power BI project analyzing the revenue performance of AtliQ Grands
 
 ## 📊 Live Dashboard
 
-https://app.powerbi.com/view?r=eyJrIjoiNjVlODQzMDktNzU4Yi00ZDI5LWE1ZjQtYzcxM2IzMTdiYTdiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+https://app.powerbi.com/view?r=eyJrIjoiM2U5ZWUwMDUtODQ5OC00ZDI4LTg1NmYtNTYxMjJiZWI3NGFiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 ---
 
 ## 🏢 Company Overview
